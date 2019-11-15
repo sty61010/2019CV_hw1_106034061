@@ -1,0 +1,6 @@
+README 
+106034061 曾靖渝
+1. 測試圖片放入資料夾"image", 並命名"_index.jpg", _index是正整數, 請讓圖片格式為jpg
+2. 使用python2 python3應該都可以直接compile hw1_1.py
+3. 會顯示SED 以及 NMS結果圖，NMS 結果圖的點會用plt畫，使點較明顯可見
+4. 圖片檔會存在資料夾"result"，其中NMS存的圖僅有改pixel較不明顯，若要觀察且以plt顯示的圖為主
